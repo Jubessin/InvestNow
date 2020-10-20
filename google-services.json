@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573644342848",
+    "firebase_url": "https://investnow-39a4a.firebaseio.com",
+    "project_id": "investnow-39a4a",
+    "storage_bucket": "investnow-39a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573644342848:android:d64c21a817f8a2b2",
+        "android_client_info": {
+          "package_name": "com.example.android.investnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573644342848-nsoeg4gooa8iku8p75k7hicjgad430mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMty2dNDRO7GtNo0RhXlYq2ZuCWRRnz5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573644342848-nsoeg4gooa8iku8p75k7hicjgad430mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
